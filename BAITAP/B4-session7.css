@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+.Niengrang{
+    width: 250px;
+    padding:15px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    display: inline-block;
+}
+.Cayghepimplant{
+    width: 250px;
+    padding:15px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    display: inline-block;
+}
+.Khamrangdinhky{
+    width: 250px;
+    padding:15px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 16.5px;
+}
+p{
+    font-size: 13.5px;
+    padding-top: 5px;
+}
+h3{
+    color: cyan;
+
+}
